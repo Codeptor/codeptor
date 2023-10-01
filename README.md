@@ -1,2 +1,4 @@
-# literally-me
-the name is enough 
+### WSG
+
+Learning WebD rn yea that's about it.
+
