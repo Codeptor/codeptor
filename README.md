@@ -6,6 +6,7 @@ learning WebD rn yea that's about it.🙄
 
 # musicing 😋
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ovv2icy3a6jgcbkr3fqqs6c0a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=f30c46&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ovv2icy3a6jgcbkr3fqqs6c0a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=f30c46&bar_color_cover=true)](https://open.spotify.com/user/ovv2icy3a6jgcbkr3fqqs6c0a)
 
 
+![Spotify](https://spotify-ten-delta.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
