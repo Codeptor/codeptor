@@ -4,7 +4,7 @@
 
 learning WebD rn yea that's about it.🙄
 
-[!<img src="https://language-stats-three.vercel.app/api/top-langs?username=codeptor&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />](https://github.com/Codeptor?tab=repositories)
+[<img src="https://language-stats-three.vercel.app/api/top-langs?username=codeptor&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />](https://github.com/Codeptor?tab=repositories)
 
 # musicing 😋
 
