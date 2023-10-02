@@ -3,7 +3,7 @@
 </div>
 &nbsp;<div align="right">
   
-![](https://komarev.com/ghpvc/?username=codeptor&color=ff69b4&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=codeptor&color=000000&style=for-the-badge)
 
 learning WebD rn yea that's about it.🙄
 
@@ -15,8 +15,8 @@ learning WebD rn yea that's about it.🙄
 
 &nbsp;<div align="right">
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/454484701244030977?theme=dark&showDisplayName=true&bg=000000&animated=true&borderRadius=5px&idleMessage=mid%20is%20GAS%20to%20me)](https://discord.com/users/454484701244030977)
 
-[![My Discord](https://discord-readme-badge.vercel.app/api?id=454484701244030977)](https://discord.com/users/454484701244030977)
 </div>
 
 
