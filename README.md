@@ -11,13 +11,14 @@ learning WebD rn yea that's about it.🙄
 </div>
 
 
-# musicing 😋
+# discord 😋
 
-&nbsp;<div align="middle">
+&nbsp;<div align="right">
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ovv2icy3a6jgcbkr3fqqs6c0a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=f30c46&bar_color_cover=true)](https://open.spotify.com/user/ovv2icy3a6jgcbkr3fqqs6c0a)
+[![My Discord](https://discord-readme-badge.vercel.app/api?id=454484701244030977)](https://discord.com/users/454484701244030977)
 </div>
+
 
 
 
