@@ -27,8 +27,6 @@
 &nbsp;<div align="left">
   
 # discord 😋
-
-
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/454484701244030977?theme=dark&showDisplayName=true&bg=000000&animated=true&borderRadius=5px&idleMessage=mid%20is%20GAS%20to%20me)](https://discord.com/users/454484701244030977)
 
 </div>
