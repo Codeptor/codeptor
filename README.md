@@ -1,4 +1,4 @@
-&nbsp;<div align="left">
+&nbsp;<div align="center">
 # Hey lol 😜
 
 ![](https://komarev.com/ghpvc/?username=codeptor&color=000000&style=for-the-badge)
